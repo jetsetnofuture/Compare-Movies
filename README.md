@@ -1,4 +1,4 @@
-# JSBasics-MovieComparisonApp
+# Movie-Comparison-App
 An app that compares the stats of two movies (like box office return and Metascore) to determine which movie is "better". From the Colt Steele Modern JS Course on Udemy.
 
 ## Things I Learned
