@@ -1,5 +1,5 @@
 # Movie-Comparison-App
-An app that compares the stats of two movies (like box office return and Metascore) to determine which movie is "better". From the Colt Steele Modern JS Course on Udemy.
+An app that compares the stats of two movies (like box office return and Metascore) to determine which movie is "better".
 
 ## Things I Learned
 * Fetching and displaying data from a movie database API called OMDB API with Axios
